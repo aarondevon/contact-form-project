@@ -1,0 +1,14 @@
+.form-container {
+  padding: 25px;
+}
+
+.form-width-medium {
+  margin: 0 auto;
+  margin-top: 25px;
+  max-width: 450px;
+}
+
+#message {
+  height: 150px;
+  width: 100%;
+}
